@@ -22,3 +22,9 @@ The dataset includes the following variables
 - Competition: The measure of competition in the market, such as the number of competitors or market share of major manufacturers.
 - Month: Month of the observation extracted from Date.
 - Year: Year of the observation extracted from Date.
+
+Firstly, install setuptools, packaging, pandas and dash using the following command.
+- pip3.8 install setuptools
+- python3.8 -m pip install packaging
+- python3.8 -m pip install pandas dash
+- pip install more-itertools
